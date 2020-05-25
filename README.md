@@ -5,8 +5,10 @@ This is a FFT using Cooley-Tukey algorithm, coding with a HLS language, SystemC.
 
 If you want to compile it,
 
-```make all
-fft```
+```
+make all
+fft
+```
 
 However, if you want to see the result, open a terminal in the same folder where the `waves.vcd` file is and then write
 
